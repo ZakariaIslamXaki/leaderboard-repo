@@ -2,4 +2,17 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: #f3f1ff;
+  margin: auto;
 }
+nav {
+  height: 94px;
+  background-color: #562eff;
+}
+/* nav img {
+  height: 100%;
+  padding-top: 26px;
+  padding-bottom: 17px;
+  padding-left: 285px;
+  align-content: center;
+  justify-content: center;
+} */
